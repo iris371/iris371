@@ -11,6 +11,8 @@
 4. 푸시하기
 
 [영남이공대학교](htttp://www.ync.ackr)
+
+![프로필 이미비](snowman.jpg)
 <!--
 **iris371/iris371** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
